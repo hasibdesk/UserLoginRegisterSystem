@@ -9,7 +9,7 @@ NodeJS
 ## Node Package Manager That I used
 
 - express
-- bcryptjs -- for hashing password
+- bcryptjs &lt;-- for hashing password
 - body-parser
 - gravatar
 - jsonwebtoken
