@@ -9,12 +9,11 @@ NodeJS
 ## Node Package Manager That I used
 
 - express
-
-* bcryptjs
-  .._ body-parser
-  .._ gravatar
-  .._ jsonwebtoken
-  .._ mongoose
-  ..\_ passport
-  ..\_ passport-jwt
-  ..\* validator
+- bcryptjs -- for hashing password
+- body-parser
+- gravatar
+- jsonwebtoken
+- mongoose
+- passport
+- passport-jwt
+- validator
