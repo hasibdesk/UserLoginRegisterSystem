@@ -7,12 +7,13 @@ NodeJS
 
 ## Node Package Manager That I used
 
-.._ express
-.._ bcryptjs
-.._ body-parser
-.._ gravatar
-.._ jsonwebtoken
-.._ mongoose
-.._ passport
-.._ passport-jwt
-..\* validator
+- express
+
+* bcryptjs
+  .._ body-parser
+  .._ gravatar
+  .._ jsonwebtoken
+  .._ mongoose
+  ..\_ passport
+  ..\_ passport-jwt
+  ..\* validator
